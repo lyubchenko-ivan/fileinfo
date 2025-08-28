@@ -154,7 +154,7 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 
 ## Version History
-* v1.0.0 (2024-01-15)
+* v1.0.0 (2024-08-28)
 
   * Initial release
 
