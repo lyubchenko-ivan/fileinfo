@@ -30,7 +30,7 @@ go install
 This will install the binary to your `$GOPATH/bin` directory.
 
 ### Download Pre-built Binaries
-Check the [Releases page]() for pre-built binaries for various platforms.
+Check the [Releases page](https://github.com/lyubchenko-ivan/fileinfo/releases) for pre-built binaries for various platforms.
 
 ## Usage
 ### Basic Usage
@@ -101,9 +101,8 @@ GOOS=darwin GOARCH=amd64 go build -o fileinfo-macos .
 fileinfo/
 ├── main.go          # Main application code
 ├── go.mod           # Go module definition
-├── go.sum           # Go dependencies checksum
-├── Makefile         # Build automation (optional)
 └── README.md        # This file
+└── LICENSE
 ```
 
 ## Development
@@ -150,7 +149,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 If you encounter any issues or have questions:
 
-1. Check the [Issues page]()
+1. Check the [Issues page](https://github.com/lyubchenko-ivan/fileinfo/issues)
 
 2. Create a new issue with detailed description
 
